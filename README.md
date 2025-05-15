@@ -86,8 +86,8 @@ This project is a complete pipeline to scrape, clean, analyze, and predict used 
 **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
    
   ## Run the Server :
   ```bash
-  python server.py```
+  python server.py
